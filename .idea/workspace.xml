@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fdcb7a-9458-4bbf-a5fb-610113a0d98c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/Max2x2MatrixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/PrintDiagonalsOfSqaurematrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets/Parking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets/SoftUniParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets/VoinaNumberGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapsStream/AcademyGraduation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapsStream/CitiesByContinentAndCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapsStream/CountSymbols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapsStream/Phonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapsStream/ProductShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets/PeriodicTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets/SetsOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets/UniqueUsernames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/sets/VoinaNumberGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/sets/VoinaNumberGame.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +44,15 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
-  <component name="RunManager" selected="Application.VoinaNumberGame">
-    <configuration name="Max2x2MatrixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Max2x2MatrixSum" />
+  <component name="RunManager" selected="Application.Phonebook">
+    <configuration name="CountSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapsStream.CountSymbols" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="mapsStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,34 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sets.Parking" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sets.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintDiagonalsOfSqaurematrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.PrintDiagonalsOfSqaurematrix" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SoftUniParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sets.SoftUniParty" />
+    <configuration name="PeriodicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sets.PeriodicTable" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +73,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VoinaNumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sets.VoinaNumberGame" />
+    <configuration name="Phonebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapsStream.Phonebook" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mapsStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetsOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sets.SetsOfElements" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueUsernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sets.UniqueUsernames" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VoinaNumberGame" />
-        <item itemvalue="Application.SoftUniParty" />
-        <item itemvalue="Application.Parking" />
-        <item itemvalue="Application.PrintDiagonalsOfSqaurematrix" />
-        <item itemvalue="Application.Max2x2MatrixSum" />
+        <item itemvalue="Application.Phonebook" />
+        <item itemvalue="Application.CountSymbols" />
+        <item itemvalue="Application.PeriodicTable" />
+        <item itemvalue="Application.SetsOfElements" />
+        <item itemvalue="Application.UniqueUsernames" />
       </list>
     </recent_temporary>
   </component>
@@ -136,38 +140,57 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584767549075" />
-    <state width="1493" height="127" key="GridCell.Tab.0.bottom" timestamp="1586704324908">
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom" timestamp="1587035099413">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="127" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586704324908" />
-    <state width="1493" height="127" key="GridCell.Tab.0.center" timestamp="1586704324908">
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587035099413" />
+    <state width="1493" height="165" key="GridCell.Tab.0.center" timestamp="1587035099411">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="127" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586704324908" />
-    <state width="1493" height="127" key="GridCell.Tab.0.left" timestamp="1586704324908">
+    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587035099411" />
+    <state width="1493" height="165" key="GridCell.Tab.0.left" timestamp="1587035099407">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="127" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586704324908" />
-    <state width="1493" height="127" key="GridCell.Tab.0.right" timestamp="1586704324908">
+    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587035099407" />
+    <state width="1493" height="165" key="GridCell.Tab.0.right" timestamp="1587035099411">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="127" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586704324908" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1584908044733">
+    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587035099411" />
+    <state width="550" height="696" key="GridCell.Tab.1.bottom" timestamp="1586926207010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584908044733" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1584908044733">
+    <state width="550" height="696" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586926207010" />
+    <state width="550" height="696" key="GridCell.Tab.1.center" timestamp="1586926207010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584908044733" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1584908044733">
+    <state width="550" height="696" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586926207010" />
+    <state width="550" height="696" key="GridCell.Tab.1.left" timestamp="1586926207010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584908044733" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1584908044733">
+    <state width="550" height="696" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586926207010" />
+    <state width="550" height="696" key="GridCell.Tab.1.right" timestamp="1586926207010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584908044733" />
+    <state width="550" height="696" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586926207010" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1586925831160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586925831160" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586932111384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586932111384" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mapsStream/CitiesByContinentAndCountry.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>
