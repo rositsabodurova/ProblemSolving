@@ -9,20 +9,20 @@ public class FixEmails {
         Scanner scanner = new Scanner(System.in);
         Map<String, String> emails = new LinkedHashMap<>();
 
-        while(true){
+        while (true) {
             String name = scanner.nextLine();
-            if("stop".equals(name)){
+            if ("stop".equals(name)) {
                 break;
             }
             String email = scanner.nextLine();
             String[] emailWorking = email.split("\\.");
-            if(!emailWorking[1].equals("us")
-                && !emailWorking[1].equals("uk")
-                && !emailWorking[1].equals("com")){
+            if (!emailWorking[1].equals("us")
+                    && !emailWorking[1].equals("uk")
+                    && !emailWorking[1].equals("com")) {
                 emails.put(name, email);
             }
         }
-        for(Map.Entry<String, String> entry : emails.entrySet()){
+        for (Map.Entry<String, String> entry : emails.entrySet()) {
             System.out.printf("%s -> %s%n", entry.getKey(), entry.getValue());
         }
     }
