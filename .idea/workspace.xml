@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fdcb7a-9458-4bbf-a5fb-610113a0d98c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mapsStream/HandsOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapsStream/PopulationCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapsStream/UserLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapsStream/DragonArmy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapsStream/LogsAggregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapsStream/SrabskoUnleashed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +40,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
-  <component name="RunManager" selected="Application.PopulationCounter">
-    <configuration name="FixEmails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapsStream.FixEmails" />
+  <component name="RunManager" selected="Application.DragonArmy">
+    <configuration name="DragonArmy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapsStream.DragonArmy" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -54,21 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandsOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapsStream.HandsOfCards" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mapsStream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Phonebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapsStream.Phonebook" />
+    <configuration name="LogsAggregator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapsStream.LogsAggregator" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -82,6 +69,19 @@
     </configuration>
     <configuration name="PopulationCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mapsStream.PopulationCounter" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mapsStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SrabskoUnleashed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapsStream.SrabskoUnleashed" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DragonArmy" />
+        <item itemvalue="Application.SrabskoUnleashed" />
+        <item itemvalue="Application.LogsAggregator" />
         <item itemvalue="Application.PopulationCounter" />
         <item itemvalue="Application.UserLogs" />
-        <item itemvalue="Application.HandsOfCards" />
-        <item itemvalue="Application.FixEmails" />
-        <item itemvalue="Application.Phonebook" />
       </list>
     </recent_temporary>
   </component>
@@ -134,38 +134,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584767549075" />
-    <state width="1493" height="185" key="GridCell.Tab.0.bottom" timestamp="1587286588692">
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom" timestamp="1588507865631">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587286588692" />
-    <state width="1493" height="185" key="GridCell.Tab.0.center" timestamp="1587286588692">
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588507865631" />
+    <state width="1493" height="178" key="GridCell.Tab.0.center" timestamp="1588507865631">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587286588692" />
-    <state width="1493" height="185" key="GridCell.Tab.0.left" timestamp="1587286588692">
+    <state width="1493" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588507865631" />
+    <state width="1493" height="178" key="GridCell.Tab.0.left" timestamp="1588507865631">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587286588692" />
-    <state width="1493" height="185" key="GridCell.Tab.0.right" timestamp="1587286588692">
+    <state width="1493" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588507865631" />
+    <state width="1493" height="178" key="GridCell.Tab.0.right" timestamp="1588507865631">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587286588692" />
-    <state width="552" height="604" key="GridCell.Tab.1.bottom" timestamp="1587222009911">
+    <state width="1493" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588507865631" />
+    <state width="579" height="490" key="GridCell.Tab.1.bottom" timestamp="1588482599817">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="552" height="604" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587222009911" />
-    <state width="552" height="604" key="GridCell.Tab.1.center" timestamp="1587222009911">
+    <state width="579" height="490" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588482599817" />
+    <state width="579" height="490" key="GridCell.Tab.1.center" timestamp="1588482599817">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="552" height="604" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587222009911" />
-    <state width="552" height="604" key="GridCell.Tab.1.left" timestamp="1587222009911">
+    <state width="579" height="490" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588482599817" />
+    <state width="579" height="490" key="GridCell.Tab.1.left" timestamp="1588482599817">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="552" height="604" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587222009911" />
-    <state width="552" height="604" key="GridCell.Tab.1.right" timestamp="1587222009911">
+    <state width="579" height="490" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588482599817" />
+    <state width="579" height="490" key="GridCell.Tab.1.right" timestamp="1588482599817">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="552" height="604" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587222009911" />
+    <state width="579" height="490" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588482599817" />
     <state x="279" y="58" key="SettingsEditor" timestamp="1586925831160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -188,8 +188,18 @@
           <line>15</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mapsStream/SrabskoUnleashed.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="firstArr[0]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>
