@@ -2,9 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fdcb7a-9458-4bbf-a5fb-610113a0d98c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mapsStream/DragonArmy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapsStream/LogsAggregator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapsStream/SrabskoUnleashed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/02.WriteToFileOutput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/03.CopyBytesOutput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/04.ExtractIntegersOutput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/05.WriteEveryThirdLineOutput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/06.SortLinesOutput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Files-and-Streams/Serialization/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Files-and-Streams/Serialization/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Files-and-Streams/Streams-and-Files/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Files-and-Streams/Streams-and-Files/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Files-and-Streams/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Files-and-Streams/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Serialization/Files-and-Streams/Serialization/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Serialization/Files-and-Streams/Serialization/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Serialization/Files-and-Streams/Streams-and-Files/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Serialization/Files-and-Streams/Streams-and-Files/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Serialization/Files-and-Streams/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Serialization/Files-and-Streams/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Serialization/Streams-and-Files/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Serialization/Streams-and-Files/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Serialization/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Serialization/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Files-and-Streams/Serialization/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Files-and-Streams/Serialization/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Files-and-Streams/Streams-and-Files/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Files-and-Streams/Streams-and-Files/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Files-and-Streams/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Files-and-Streams/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/Serialization/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/Serialization/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/Streams-and-Files/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/Streams-and-Files/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Serialization/Streams-and-Files/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Serialization/Streams-and-Files/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Serialization/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/Serialization/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/Streams-and-Files/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-Streams/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/Exercises Resources/Exercises Resources.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/Exercises Resources/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/Exercises Resources/inputLineNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/Exercises Resources/inputOne.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/Exercises Resources/inputTwo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/Exercises Resources/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/Exercises Resources/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/inputLineNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/inputOne.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/inputTwo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/Files-and-streams-exercises/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-resources/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/AllCapitals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/CopyBytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/CountCharacterTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/ExtractIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/LineNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/SortLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/SumBytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/SumLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/WriteEveryThirdLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filesStreams/WriteToFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +105,18 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
-  <component name="RunManager" selected="Application.DragonArmy">
-    <configuration name="DragonArmy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapsStream.DragonArmy" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rbodurova\Documents\ProblemSolving\ProblemSolving" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WordCount">
+    <configuration name="AllCapitals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filesStreams.AllCapitals" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapsStream.*" />
+          <option name="PATTERN" value="filesStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogsAggregator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapsStream.LogsAggregator" />
+    <configuration name="CountCharacterTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filesStreams.CountCharacterTypes" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapsStream.*" />
+          <option name="PATTERN" value="filesStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PopulationCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapsStream.PopulationCounter" />
+    <configuration name="LineNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filesStreams.LineNumbers" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapsStream.*" />
+          <option name="PATTERN" value="filesStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SrabskoUnleashed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapsStream.SrabskoUnleashed" />
+    <configuration name="SumBytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filesStreams.SumBytes" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapsStream.*" />
+          <option name="PATTERN" value="filesStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserLogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapsStream.UserLogs" />
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filesStreams.WordCount" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapsStream.*" />
+          <option name="PATTERN" value="filesStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DragonArmy" />
-        <item itemvalue="Application.SrabskoUnleashed" />
-        <item itemvalue="Application.LogsAggregator" />
-        <item itemvalue="Application.PopulationCounter" />
-        <item itemvalue="Application.UserLogs" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.LineNumbers" />
+        <item itemvalue="Application.CountCharacterTypes" />
+        <item itemvalue="Application.AllCapitals" />
+        <item itemvalue="Application.SumBytes" />
       </list>
     </recent_temporary>
   </component>
@@ -134,22 +204,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584767549075" />
-    <state width="1493" height="178" key="GridCell.Tab.0.bottom" timestamp="1588507865631">
+    <state width="1493" height="148" key="GridCell.Tab.0.bottom" timestamp="1591543968778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588507865631" />
-    <state width="1493" height="178" key="GridCell.Tab.0.center" timestamp="1588507865631">
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-120.1920.1160@0.0.1536.824" timestamp="1590752725599" />
+    <state width="1476" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-120.1920.1160@1920.-120.1920.1160" timestamp="1591104946766" />
+    <state width="1493" height="148" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591543968778" />
+    <state width="1493" height="148" key="GridCell.Tab.0.center" timestamp="1591543968778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588507865631" />
-    <state width="1493" height="178" key="GridCell.Tab.0.left" timestamp="1588507865631">
+    <state width="1493" height="178" key="GridCell.Tab.0.center/0.0.1536.824/1920.-120.1920.1160@0.0.1536.824" timestamp="1590752725599" />
+    <state width="1476" height="175" key="GridCell.Tab.0.center/0.0.1536.824/1920.-120.1920.1160@1920.-120.1920.1160" timestamp="1591104946766" />
+    <state width="1493" height="148" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591543968778" />
+    <state width="1493" height="148" key="GridCell.Tab.0.left" timestamp="1591543968777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588507865631" />
-    <state width="1493" height="178" key="GridCell.Tab.0.right" timestamp="1588507865631">
+    <state width="1493" height="178" key="GridCell.Tab.0.left/0.0.1536.824/1920.-120.1920.1160@0.0.1536.824" timestamp="1590752725599" />
+    <state width="1476" height="175" key="GridCell.Tab.0.left/0.0.1536.824/1920.-120.1920.1160@1920.-120.1920.1160" timestamp="1591104946766" />
+    <state width="1493" height="148" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591543968777" />
+    <state width="1493" height="148" key="GridCell.Tab.0.right" timestamp="1591543968778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588507865631" />
+    <state width="1493" height="178" key="GridCell.Tab.0.right/0.0.1536.824/1920.-120.1920.1160@0.0.1536.824" timestamp="1590752725599" />
+    <state width="1476" height="175" key="GridCell.Tab.0.right/0.0.1536.824/1920.-120.1920.1160@1920.-120.1920.1160" timestamp="1591104946766" />
+    <state width="1493" height="148" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591543968778" />
     <state width="579" height="490" key="GridCell.Tab.1.bottom" timestamp="1588482599817">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -170,10 +248,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586925831160" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587146097022">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591537566445">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587146097022" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591537566445" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
